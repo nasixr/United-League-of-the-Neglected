@@ -35,7 +35,7 @@ export class TeamService {
           {
             id: 'husain',
             name: 'حسين المتأخر',
-            image: 'assets/WhatsApp Image 2025-07-26 at 19.49.16.jpeg',
+            image: 'assets/Huss.jpeg',
             description: 'خبير في فن التأخير والوصول في اللحظة الأخيرة!',
             specialty: 'متأخر محترف',
             joinDate: '2020-01-01',
